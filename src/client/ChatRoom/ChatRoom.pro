@@ -12,6 +12,7 @@ SOURCES += \
     chatlist.cpp \
     chatview.cpp \
     client.cpp \
+    loginview.cpp \
     main.cpp \
     dialog.cpp \
     sql.cpp
@@ -21,12 +22,14 @@ HEADERS += \
     chatview.h \
     client.h \
     dialog.h \
+    loginview.h \
     sql.h
 
 FORMS += \
     chatlist.ui \
     chatview.ui \
-    dialog.ui
+    dialog.ui \
+    loginview.ui
 
 TRANSLATIONS += \
     ChatRoom_zh_CN.ts
