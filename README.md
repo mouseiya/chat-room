@@ -1,2 +1,2 @@
 # chat-room
-none
+我用的版本是QT6.5
